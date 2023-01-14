@@ -5,3 +5,4 @@
 1. matplolib practice
 - PyCharm
 - Notion
+- Scikit learn
