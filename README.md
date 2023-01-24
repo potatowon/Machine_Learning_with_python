@@ -7,3 +7,4 @@
 - PyCharm
 - Notion
 - Scikit learn
+## 3. 딥러닝 입문
